@@ -1,2 +1,13 @@
+If you want, I can write a ready-to-use shell script that:
+
+Installs all missing server/client packages including socket.io and Tailwind
+
+Fixes Tailwind import
+
+Runs client and server automatically
+
+This will save you manual commands.
+
+
 dog cat
 
