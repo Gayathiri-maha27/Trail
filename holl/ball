@@ -1,7 +1,11 @@
 gaya
 If you want, I can write a ready-to-use shell script that:
 
+Istalls all missing server/client packages including socket.io and Tailwind
+
+
 Installs all missing server/client packages including socket.io and Tailwind
+hk
 
 Fixes Tailwind import
 
